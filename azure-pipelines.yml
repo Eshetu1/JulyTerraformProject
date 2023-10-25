@@ -1,0 +1,11 @@
+
+
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo k8s azure terraform!
+  displayName: 'Run a one-line script'
+
+
